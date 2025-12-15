@@ -1,0 +1,11 @@
+# المكتبة الرئيسية للتفاعل مع واجهة تلغرام
+python-telegram-bot==20.8
+
+# لإدارة متغيرات البيئة مثل TOKEN و ADMIN_ID
+python-dotenv
+
+# خادم الويب الأساسي لخدمة Keep Alive
+Flask
+
+# مكتبة العمليات المتزامنة
+aiohttp
